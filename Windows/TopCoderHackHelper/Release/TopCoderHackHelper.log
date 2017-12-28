@@ -1,0 +1,7 @@
+﻿  TopCoderHackHelper.cpp
+TopCoderHackHelper.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\topcoderhackhelper\windows\topcoderhackhelper\EthernetHeader.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码
+  All 45 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  TopCoderHackHelper.vcxproj -> F:\TopCoderHackHelper\Windows\TopCoderHackHelper\Release\TopCoderHackHelper.exe
